@@ -21,5 +21,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Todo
-1. - [x] Update Gallery route
+1. - [ ] Update Gallery route
 2. - [ ] Update Market route 
