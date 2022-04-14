@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 ## Todo
 1. - [x] Update Gallery route
-2. - [ ]Update Market route 
+2. - [ ] Update Market route 
