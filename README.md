@@ -2,8 +2,8 @@
 
 ## Features
 
-1. Blog :90:
-2. Chat :90: :boom:
+1. Blog :100:
+2. Chat :100: :boom:
 3. Gallery :hole:
 4. Market :hole:
 5. Firebase :boom:
