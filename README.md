@@ -2,11 +2,11 @@
 
 ## Features
 
-1.Blog
-2.Chat
-3.Gallery
-4.Market
-5.Firebase
+1. Blog
+2. Chat
+3. Gallery
+4. Market
+5. Firebase
 
 ### `npm install`
 
@@ -21,5 +21,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Todo
-1.Update Gallery route
-2.Update Market route 
+1. - [x] Update Gallery route
+2. - [ ]Update Market route 
